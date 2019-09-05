@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main(int argx, char[] argv)
+int main(int argc, char[] argv)
 {
-	std::cout << "Hello world!
+	std::cout << "Hello world!";
 	return 0;
 }
